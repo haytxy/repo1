@@ -1,3 +1,4 @@
 123 456
 druga linia na vscode
 nowy wpis master
+nowy wpis master 2 
